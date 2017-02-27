@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=logisticMain
+Exec=python /home/niroz/logisticMain.py
+Terminal=true
+Type=Application
+Name[en_US]=logisticMain.desktop
